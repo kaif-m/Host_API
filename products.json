@@ -1,0 +1,52 @@
+[
+  {
+    "name": "iphone",
+    "price": 154,
+    "featured": true,
+    "company": "apple",
+    "description": "Unleash the power of innovation with the latest iPhones. Experience cutting-edge technology, stunning design, and seamless performance in the palm of your hand."
+  },
+  {
+    "name": "iphone10",
+    "price": 1154,
+    "featured": true,
+    "company": "apple",
+    "description": "Unleash the power of innovation with the latest iPhones. Experience cutting-edge technology, stunning design, and seamless performance in the palm of your hand."
+  },
+  {
+    "name": "watch",
+    "price": 204,
+    "company": "apple",
+    "description": " Explore our exquisite collection of timepieces, where craftsmanship meets style. From classic elegance to modern innovation, find the perfect watch to elevate your wrist game."
+  },
+  {
+    "name": "watch10",
+    "price": 304,
+    "company": "apple",
+    "description": " Explore our exquisite collection of timepieces, where craftsmanship meets style. From classic elegance to modern innovation, find the perfect watch to elevate your wrist game."
+  },
+  {
+    "name": "s20",
+    "price": 404,
+    "company": "samsung",
+    "description": " Elevate your digital world with Samsung's top-tier electronics. From smartphones to smart TVs, discover a universe of stunning visuals and unmatched connectivity."
+  },
+  {
+    "name": "s20",
+    "price": 505,
+    "company": "samsung",
+    "description": " Elevate your digital world with Samsung's top-tier electronics. From smartphones to smart TVs, discover a universe of stunning visuals and unmatched connectivity."
+  },
+  {
+    "name": "dell gaming",
+    "price": 501,
+    "company": "dell",
+    "description": "  Immerse yourself in the world of gaming excellence with Dell. Unleash the beast with high-performance gaming laptops and PCs designed for unparalleled gaming experiences."
+  },
+  {
+    "name": "mi20",
+    "price": 701,
+    "company": "mi",
+    "description": "Unleash the power of innovation with the latest iPhones. Experience cutting-edge technology, stunning design, and seamless performance in the palm of your hand."
+  }
+]
